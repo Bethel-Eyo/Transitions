@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Transitions</string>
+    <string name="tip">This app shows a practical implementation of the activity Transition API</string>
+</resources>
